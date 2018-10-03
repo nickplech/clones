@@ -615,7 +615,7 @@ input::-moz-focus-inner {
 }
 
 .bg-light-red {
-    background-color: #19a974;
+    background-color: rgba(80,210,80,.6);
 }
 
 .hover-bg-black:hover {
@@ -763,6 +763,7 @@ input::-moz-focus-inner {
   z-index: 3;
   width: 40%;
   min-width: 400px;
+  border-radius: 25px;
 }
 
 .buttonsend {
