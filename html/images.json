@@ -1,0 +1,76 @@
+{
+ "strains": [
+     {   
+     		"name" : "bruce banner og",
+        "type" : "../images/strains/brucebannerog.jpg"
+    },
+ {
+ 				"name" : "charlottes web",
+        "type" : "../images/strains/charlottesweb.jpg"
+    },
+ {
+        "name" : "dosi dos",
+        "type" : "../images/strains/dosidos.jpg"
+    },
+ {
+        "name" : "dosi x strawnanna",
+        "type" : "../images/strains/dosixstrawnanna.jpg"
+    },
+{
+        "name" : "fire og",
+        "type" : "../images/strains/fireog.jpg"
+    },
+ {
+        "name" : "gelato number 33",
+        "type" : "../images/strains/gelatonumber33.jpg"
+    },
+ {
+        "name" : "gg4",
+        "type" : "../images/strains/gg4.jpg"
+    },
+ {
+        "name" : "gmo x strawnanna",
+        "type" : "../images/strains/gmoxstrawnanna.jpg"
+    },
+{
+        "name" : "grapenana",
+        "type" : "../images/strains/grapenana.jpg"
+    },
+ {
+        "name" : "Grape Pie OG",
+        "type" : "../images/strains/grapepie.jpg"
+    },
+ {
+        "name" : "lavacake",
+        "type" : "../images/strains/lavacake.jpg"
+    },
+{
+        "name" : "lemoncake",
+        "type" : "../images/strains/lemoncake.jpg"
+    }, 
+{
+        "name" : "mendo breath",
+        "type" : "../images/strains/mendobreath.jpg"
+    },
+ {
+        "name" : "mendo purps og cut",
+        "type" : "../images/strains/mendopurpsogcut.jpg"
+    },
+{
+        "name" : "orangeade",
+        "type" : "../images/strains/orangeade.jpg"
+    },
+ {
+        "name" : "orange romulan",
+        "type" : "../images/strains/orangeromulan.jpg"
+    },
+{
+        "name" : "papaya x strawnana",
+        "type" : "../images/strains/papayaxstrawnana.jpg"
+    },
+ {
+        "name" : "pieface og",
+        "type" : "../images/strains/piefaceog.jpg"
+    }  
+    ]  
+}
